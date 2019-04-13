@@ -24,5 +24,5 @@
 
 - [x] Basic Git cheatsheet
 - [x] Basic command line cheatsheet
-- [ ] Slides & diagrams
+- [x] Slides & diagrams
 - [x] Hands-on activities
